@@ -1,0 +1,1 @@
+Custom output file like generated/prisma requires accelerate URL endpoint
